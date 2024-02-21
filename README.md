@@ -1,2 +1,2 @@
 # Sudar
-serior project 2019
+University senior project 2019
